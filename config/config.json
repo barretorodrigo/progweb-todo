@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sql10426929",
-    "password": "lvZTBa4sd1",
-    "database": "sql10426929",
-    "host": "sql10.freesqldatabase.com",
+    "username": "czqrj1jlp232q63u",
+    "password": "r8srhby9mdn0am6x",
+    "database": "pmjj8ggzzolweuuf",
+    "host": "ohunm00fjsjs1uzy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
